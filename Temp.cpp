@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 // ==== Pines ====
-#define PIN_SENSOR   35
+#define PIN_SENSOR   34
 #define LED_VERDE    13
 #define LED_AMARILLO 12
 #define LED_ROJO     33
